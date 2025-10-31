@@ -1,4 +1,4 @@
-// server.js
+// server.js file
 import Fastify from "fastify";
 
 const app = Fastify({ logger: true });
